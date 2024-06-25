@@ -288,6 +288,14 @@
         },
         {
             "id":"30",
+            "firstName":"Jordan",
+            "lastName":"Sprindveldt",
+            "gender":"Female",
+            "profile":"Yoda",
+            "contactDetails":"jordanspringveldt@gmail.com"
+        },
+        {
+            "id":"31",
             "firstName":"Matthew Dean",
             "lastName":"Brown",
             "gender":"Male",
