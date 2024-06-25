@@ -59,7 +59,7 @@
             "firstName":"Marco",
             "lastName":"Adonis",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Marco.jpg",
             "contactDetails":"marcusadonis@gmail.com"
         },
         {
@@ -67,7 +67,7 @@
             "firstName":"Keegan",
             "lastName":"Niekerk",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Keegan.jpg",
             "contactDetails":"keegannierk@gmail.com"
         },
         {
@@ -75,7 +75,7 @@
             "firstName":"Oyintanda",
             "lastName":"Zongwane",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/OT.jpg",
             "contactDetails":"otzongwane@gmail.com"
         },
         {
@@ -83,7 +83,7 @@
             "firstName":"Jayden",
             "lastName":"Van Rooyen",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Jayden.png",
             "contactDetails":"jaydenvanrooyen@gmail.com"
         },
         {
@@ -91,7 +91,7 @@
             "firstName":"Taahir",
             "lastName":"Du Toit",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/",
             "contactDetails":"taahirdutoit@gmail.com"
         },
         {
@@ -99,7 +99,7 @@
             "firstName":"Sihlandlo",
             "lastName":"Makhumsha",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/",
             "contactDetails":"sihlandlomakhumsha@gmail.com"
         },
         {
@@ -107,7 +107,7 @@
             "firstName":"Akhona",
             "lastName":"Mjikelo",
             "gender":"Female",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Akhona.jpg",
             "contactDetails":"akhonamjikelo@gmail.com"
         },
         {
@@ -131,7 +131,7 @@
             "firstName":"Chandre Lee ",
             "lastName":"Davids",
             "gender":"Female",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Chandre.jpg",
             "contactDetails":"chandreleedavids@gmail.com"
         },
         {
@@ -139,7 +139,7 @@
             "firstName":"Elvin ",
             "lastName":"Harris",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Elvin.png",
             "contactDetails":"elvinharris@gmail.com"
         },
         {
@@ -195,7 +195,7 @@
             "firstName":"Zubair",
             "lastName":"Abdullatief",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://zubayrlatief.github.io/portfolio_hostedImages/beach.jpg",
             "contactDetails":"zubair@gmail.com"
         },
         {
@@ -227,7 +227,7 @@
             "firstName":"Kayden",
             "lastName":"Hendricks",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Kayden.jpg",
             "contactDetails":"kadenhendricks@gmail.com"
         },
         {
@@ -291,7 +291,7 @@
             "firstName":"Matthew Dean",
             "lastName":"Brown",
             "gender":"Male",
-            "profile":"",
+            "profile":"https://c0dingforfun.github.io/friends_img/Images/Matthew.png",
             "contactDetails":"matthewdeanbrown@gmail.com"
         }
     ]
