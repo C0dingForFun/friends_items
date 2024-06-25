@@ -55,12 +55,76 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
+            "id":"1",
+            "firstName":"Marco",
+            "lastName":"Adonis",
+            "gender":"Male",
             "profile":"",
-            "contactDetails":""
+            "contactDetails":"marcusadonis@gmail.com"
+        },
+        {
+            "id":"2",
+            "firstName":"Keegan",
+            "lastName":"Niekerk",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"keegannierk@gmail.com"
+        },
+        {
+            "id":"3",
+            "firstName":"Oyintanda",
+            "lastName":"Zongwane",
+            "gender":"FE-Male",
+            "profile":"",
+            "contactDetails":"otzongwane@gmail.com"
+        },
+        {
+            "id":"4",
+            "firstName":"Jayden",
+            "lastName":"Van Rooyen",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"jaydenvanrooyen@gmail.com"
+        },
+        {
+            "id":"5",
+            "firstName":"Taahir",
+            "lastName":"Du Toit",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"taahirdutoit@gmail.com"
+        },
+        {
+            "id":"6",
+            "firstName":"Sihlandlo",
+            "lastName":"Makhumsha",
+            "gender":"Male",
+            "profile":"",
+            "contactDetails":"sihlandlomakhumsha@gmail.com"
+        },
+        {
+            "id":"5",
+            "firstName":"Akhona",
+            "lastName":"Mjikelo",
+            "gender":"Female",
+            "profile":"",
+            "contactDetails":"akhonamjikelo@gmail.com"
+        },
+        {
+            "id":"5",
+            "firstName":"Lebu",
+            "lastName":"Mtomboti",
+            "gender":"Female",
+            "profile":"",
+            "contactDetails":"lebumtomboti@gmail.com"
+        },
+        {
+            "id":"5",
+            "firstName":"Yolanda",
+            "lastName":"Matiwane",
+            "gender":"Female",
+            "profile":"",
+            "contactDetails":"yolandamatiwane@gmail.com"
         }
     ]
 }
