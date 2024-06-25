@@ -140,7 +140,7 @@
             "lastName":"Harris",
             "gender":"Male",
             "profile":"",
-            "contactDetails":"chandreleedavids@gmail.com"
+            "contactDetails":"elvinharris@gmail.com"
         },
         {
             "id":"12",
@@ -164,7 +164,7 @@
             "lastName":"Kakaza",
             "gender":"Female",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"nikilithakakza@gmail.com"
         },
         {
             "id":"15",
@@ -172,7 +172,7 @@
             "lastName":"Abrahams",
             "gender":"Female",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"nazneemabrahams@gmail.com"
         },
         {
             "id":"16",
@@ -180,7 +180,7 @@
             "lastName":"George",
             "gender":"Male",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"zenleegeorge@gmail.com"
         },
         {
             "id":"17",
@@ -188,15 +188,15 @@
             "lastName":"Mabuto",
             "gender":"Male",
             "profile":"",
-            "contactDetails":""
+            "contactDetails":"ntandomabuto@gmail.com"
         },
         {
             "id":"18",
             "firstName":"Zubair",
-            "lastName":"Abdullaeien",
+            "lastName":"Abdullatief",
             "gender":"Male",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"zubair@gmail.com"
         },
         {
             "id":"19",
@@ -204,7 +204,7 @@
             "lastName":"Parring",
             "gender":"Female",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"tyraparring@gmail.com"
         },
         {
             "id":"20",
@@ -212,7 +212,7 @@
             "lastName":"Adams",
             "gender":"Female",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"kiaraadams@gmail.com"
         },
         {
             "id":"21",
@@ -220,7 +220,7 @@
             "lastName":"Mangele",
             "gender":"Male",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"yonnelamangele@gmail.com"
         },
         {
             "id":"22",
@@ -228,7 +228,7 @@
             "lastName":"Hendricks",
             "gender":"Male",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"kadenhendricks@gmail.com"
         },
         {
             "id":"23",
@@ -236,7 +236,7 @@
             "lastName":"Keet",
             "gender":"Female",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"candicekeet@gmail.com"
         },
         {
             "id":"24",
@@ -244,7 +244,7 @@
             "lastName":"Mehlo",
             "gender":"Female",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"asandamehlo@gmail.com"
         },
         {
             "id":"25",
@@ -252,7 +252,7 @@
             "lastName":"Nyana",
             "gender":"Female",
             "profile":"black barbie",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"siphokuhlenyana@gmail.com"
         },
         {
             "id":"26",
@@ -260,7 +260,7 @@
             "lastName":"Malumla",
             "gender":"Female",
             "profile":"Yoda",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"olwethumalumla@gmail.com"
         },
         {
             "id":"27",
@@ -268,7 +268,7 @@
             "lastName":"Almazien",
             "gender":"Female",
             "profile":"Yoda",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"chloealmazien@gmail.com"
         },
         {
             "id":"28",
@@ -276,15 +276,15 @@
             "lastName":"Smith",
             "gender":"Female",
             "profile":"Yoda",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"chloesmith@gmail.com"
         },
         {
             "id":"29",
             "firstName":"Caleb",
-            "lastName":"Smith",
+            "lastName":"Okkers",
             "gender":"Female",
             "profile":"Yoda",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"calebokkers@gmail.com"
         },
         {
             "id":"30",
@@ -292,7 +292,7 @@
             "lastName":"Brown",
             "gender":"Male",
             "profile":"",
-            "contactDetails":"masoodahgeorge@gmail.com"
+            "contactDetails":"matthewdeanbrown@gmail.com"
         }
     ]
 }
